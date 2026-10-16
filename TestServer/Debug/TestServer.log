@@ -1,0 +1,5 @@
+﻿  Server.c
+C:\Users\User\Desktop\IKP\c_ikp-main\Projekat\TestServer\Server.c(135,78): warning C4022: 'CreateThread': pointer mismatch for actual parameter 4
+C:\Users\User\Desktop\IKP\c_ikp-main\Projekat\TestServer\Server.c(92,8): warning C4101: 'poruka': unreferenced local variable
+C:\Users\User\Desktop\IKP\c_ikp-main\Projekat\TestServer\Server.c(203,1): warning C4716: 'worker_thread_funkcija': must return a value
+  TestServer.vcxproj -> C:\Users\User\Desktop\IKP\c_ikp-main\Projekat\Debug\TestServer.exe

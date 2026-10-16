@@ -1,0 +1,3 @@
+﻿  Client.c
+C:\Users\User\Desktop\IKP\c_ikp-main\Projekat\TestClient\Client.c(40,18): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  TestClient.vcxproj -> C:\Users\User\Desktop\IKP\c_ikp-main\Projekat\Debug\TestClient.exe

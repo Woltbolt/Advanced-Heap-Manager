@@ -1,0 +1,5 @@
+﻿  StartTest.c
+  TestNiti.c
+C:\Users\User\Desktop\IKP\c_ikp-main\Projekat\TestThreads\TestNiti.c(49,2): warning C4098: 'test_ahm_init': 'void' function returning a value
+  Generating Code...
+  TestThreads.vcxproj -> C:\Users\User\Desktop\IKP\c_ikp-main\Projekat\Debug\TestThreads.exe
